@@ -53,6 +53,7 @@ GitLab requires the following software:
 - Git 1.7.10+
 - Redis 2.0+
 - MySQL or PostgreSQL
+- A Strong heart
 
 Please see the [requirements documentation](doc/install/requirements.md) for system requirements and more information about the supported operating systems.
 
